@@ -1,0 +1,19 @@
+[General]
+Name=Project1
+BaseDir=C:\Program Files (x86)\Delphi7SE\Projects\Chocolatey\
+Project=1
+Version=2
+[Classes]
+Count=2
+Class0.Name=TForm1
+Class0.ObjectType=Class
+Class0.DerivedFrom=TForm
+Class0.SourceName=Unit1
+Class0.LineNo=0
+Class0.Filename=C:\Program Files (x86)\Delphi7SE\Projects\Chocolatey\Unit1.pas
+Class1.Name=TForm5
+Class1.ObjectType=Class
+Class1.DerivedFrom=TForm
+Class1.SourceName=Unit5
+Class1.LineNo=0
+Class1.Filename=C:\Program Files (x86)\Delphi7SE\Projects\Accesorios y Herramientas\Unit5.pas
